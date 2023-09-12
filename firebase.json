@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "cheapchomps",
     "public": "public",
     "ignore": [
       "firebase.json",
